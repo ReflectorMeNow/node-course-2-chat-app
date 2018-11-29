@@ -16,7 +16,7 @@ describe('generateMessage', () => {
 });
 
 describe('generateLocationMessage', () => {
-	it('should generate the correct дщсфешщт object', () => {
+	it('should generate the correct location object', () => {
 		let from = 'Nikita';
 		let latitude = 1;
 		let long = 2;
